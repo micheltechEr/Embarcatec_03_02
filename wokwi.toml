@@ -1,4 +1,4 @@
 [wokwi]
 version = 1
-firmware = 'build/DisplayC.uf2'
-elf = 'build/DisplayC.elf'
+firmware = 'build/Embarcatech_03_02.uf2'
+elf = 'build/Embarcatech_03_02.elf'
