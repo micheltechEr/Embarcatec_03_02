@@ -197,7 +197,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x13 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdlib/stdlib.c.obj
  .debug_line    0x00000000      0x441 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdlib/stdlib.c.obj
- .debug_str     0x00000000      0x3e0 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdlib/stdlib.c.obj
+ .debug_str     0x00000000      0x3ee CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdlib/stdlib.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdlib/stdlib.c.obj
  .debug_frame   0x00000000       0x28 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdlib/stdlib.c.obj
  .ARM.attributes
@@ -285,7 +285,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x13 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2040/pico_platform/platform.c.obj
  .debug_line    0x00000000      0x28c CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2040/pico_platform/platform.c.obj
- .debug_str     0x00000000      0x22b CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2040/pico_platform/platform.c.obj
+ .debug_str     0x00000000      0x239 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2040/pico_platform/platform.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2040/pico_platform/platform.c.obj
  .debug_frame   0x00000000       0x20 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2040/pico_platform/platform.c.obj
  .ARM.attributes
@@ -411,7 +411,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x14c CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_sync/sem.c.obj
  .debug_line    0x00000000      0xec7 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_sync/sem.c.obj
- .debug_str     0x00000000      0x542 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_sync/sem.c.obj
+ .debug_str     0x00000000      0x550 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_sync/sem.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_sync/sem.c.obj
  .debug_frame   0x00000000       0xf4 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_sync/sem.c.obj
  .ARM.attributes
@@ -466,7 +466,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x2b CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_sync/critical_section.c.obj
  .debug_line    0x00000000      0x451 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_sync/critical_section.c.obj
- .debug_str     0x00000000      0x2fd CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_sync/critical_section.c.obj
+ .debug_str     0x00000000      0x30b CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_sync/critical_section.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_sync/critical_section.c.obj
  .debug_frame   0x00000000       0x50 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_sync/critical_section.c.obj
  .ARM.attributes
@@ -532,7 +532,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x61 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_time/timeout_helper.c.obj
  .debug_line    0x00000000      0x536 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_time/timeout_helper.c.obj
- .debug_str     0x00000000      0x41e CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_time/timeout_helper.c.obj
+ .debug_str     0x00000000      0x42c CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_time/timeout_helper.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_time/timeout_helper.c.obj
  .debug_frame   0x00000000       0x74 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_time/timeout_helper.c.obj
  .ARM.attributes
@@ -636,7 +636,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x64 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_util/datetime.c.obj
  .debug_line    0x00000000      0x60e CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_util/datetime.c.obj
- .debug_str     0x00000000      0x3d2 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_util/datetime.c.obj
+ .debug_str     0x00000000      0x3e0 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_util/datetime.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_util/datetime.c.obj
  .debug_frame   0x00000000      0x124 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_util/datetime.c.obj
  .ARM.attributes
@@ -678,7 +678,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x4a2 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_util/pheap.c.obj
  .debug_line    0x00000000     0x141e CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_util/pheap.c.obj
- .debug_str     0x00000000      0x41b CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_util/pheap.c.obj
+ .debug_str     0x00000000      0x429 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_util/pheap.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_util/pheap.c.obj
  .debug_frame   0x00000000      0x178 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_util/pheap.c.obj
  .ARM.attributes
@@ -711,7 +711,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x10f CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_util/queue.c.obj
  .debug_line    0x00000000     0x1043 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_util/queue.c.obj
- .debug_str     0x00000000      0x4bb CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_util/queue.c.obj
+ .debug_str     0x00000000      0x4c9 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_util/queue.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_util/queue.c.obj
  .debug_frame   0x00000000       0xf0 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_util/queue.c.obj
  .ARM.attributes
@@ -746,7 +746,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x259 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_uart/uart.c.obj
  .debug_line    0x00000000      0xffd CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_uart/uart.c.obj
- .debug_str     0x00000000      0xc27 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_uart/uart.c.obj
+ .debug_str     0x00000000      0xc35 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_uart/uart.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_uart/uart.c.obj
  .debug_frame   0x00000000       0xec CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_uart/uart.c.obj
  .ARM.attributes
@@ -803,7 +803,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x34 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_vreg/vreg.c.obj
  .debug_line    0x00000000      0x352 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_vreg/vreg.c.obj
- .debug_str     0x00000000      0x386 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_vreg/vreg.c.obj
+ .debug_str     0x00000000      0x394 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_vreg/vreg.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_vreg/vreg.c.obj
  .debug_frame   0x00000000       0x30 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_vreg/vreg.c.obj
  .ARM.attributes
@@ -840,7 +840,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0xdf CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_watchdog/watchdog.c.obj
  .debug_line    0x00000000      0x7ec CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_watchdog/watchdog.c.obj
- .debug_str     0x00000000      0x3c7 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_watchdog/watchdog.c.obj
+ .debug_str     0x00000000      0x3d5 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_watchdog/watchdog.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_watchdog/watchdog.c.obj
  .debug_frame   0x00000000       0xc0 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_watchdog/watchdog.c.obj
  .ARM.attributes
@@ -867,7 +867,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom_lock.c.obj
  .debug_line    0x00000000       0x75 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom_lock.c.obj
- .debug_str     0x00000000      0x1c8 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom_lock.c.obj
+ .debug_str     0x00000000      0x1d6 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom_lock.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom_lock.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom_lock.c.obj
@@ -879,7 +879,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_boot_lock/boot_lock.c.obj
  .debug_line    0x00000000       0x78 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_boot_lock/boot_lock.c.obj
- .debug_str     0x00000000      0x1cb CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_boot_lock/boot_lock.c.obj
+ .debug_str     0x00000000      0x1d9 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_boot_lock/boot_lock.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_boot_lock/boot_lock.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_boot_lock/boot_lock.c.obj
@@ -913,7 +913,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x4f CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_flash/flash.c.obj
  .debug_line    0x00000000      0x4da CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_flash/flash.c.obj
- .debug_str     0x00000000      0x724 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_flash/flash.c.obj
+ .debug_str     0x00000000      0x732 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_flash/flash.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_flash/flash.c.obj
  .debug_frame   0x00000000       0xa0 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_flash/flash.c.obj
  .ARM.attributes
@@ -940,12 +940,12 @@ Discarded input sections
                 0x00000000       0x14 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.obj
  .debug_line    0x00000000       0xa6 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.obj
  .debug_line_str
-                0x00000000       0xac CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.obj
+                0x00000000       0xba CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.obj
  .debug_info    0x00000000       0x23 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.obj
  .debug_abbrev  0x00000000       0x12 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.obj
  .debug_aranges
                 0x00000000       0x40 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.obj
- .debug_str     0x00000000       0xba CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.obj
+ .debug_str     0x00000000       0xc8 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.obj
  .debug_rnglists
                 0x00000000       0x2b CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_divider/divider.S.obj
  .ARM.attributes
@@ -975,7 +975,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x13 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj
  .debug_line    0x00000000      0x357 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj
- .debug_str     0x00000000      0x291 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj
+ .debug_str     0x00000000      0x29f CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj
  .debug_frame   0x00000000       0x20 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj
  .ARM.attributes
@@ -1161,7 +1161,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x5f3 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_math.c.obj
  .debug_line    0x00000000     0x2d59 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_math.c.obj
- .debug_str     0x00000000      0x54d CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_math.c.obj
+ .debug_str     0x00000000      0x55b CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_math.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_math.c.obj
  .debug_frame   0x00000000      0x44c CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_math.c.obj
  .ARM.attributes
@@ -1368,7 +1368,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x405 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_math.c.obj
  .debug_line    0x00000000     0x25c7 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_math.c.obj
- .debug_str     0x00000000      0x560 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_math.c.obj
+ .debug_str     0x00000000      0x56e CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_math.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_math.c.obj
  .debug_frame   0x00000000      0x390 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_math.c.obj
  .ARM.attributes
@@ -1497,7 +1497,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x439 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_atomic/atomic.c.obj
  .debug_line    0x00000000     0x2e53 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_atomic/atomic.c.obj
- .debug_str     0x00000000      0x728 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_atomic/atomic.c.obj
+ .debug_str     0x00000000      0x736 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_atomic/atomic.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_atomic/atomic.c.obj
  .debug_frame   0x00000000      0x3dc CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_atomic/atomic.c.obj
  .ARM.attributes
@@ -1520,7 +1520,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x31 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_cxx_options/new_delete.cpp.obj
  .debug_line    0x00000000      0x2a8 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_cxx_options/new_delete.cpp.obj
- .debug_str     0x00000000      0x3b1 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_cxx_options/new_delete.cpp.obj
+ .debug_str     0x00000000      0x3bf CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_cxx_options/new_delete.cpp.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_cxx_options/new_delete.cpp.obj
  .debug_frame   0x00000000       0xa0 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_cxx_options/new_delete.cpp.obj
  .ARM.attributes
@@ -1661,7 +1661,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x43 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
  .debug_line    0x00000000      0x566 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
- .debug_str     0x00000000      0xe2c CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+ .debug_str     0x00000000      0xe3a CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
  .debug_frame   0x00000000       0xbc CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
  .ARM.attributes
@@ -1719,7 +1719,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x13d CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
  .debug_line    0x00000000     0x1266 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
- .debug_str     0x00000000      0xe55 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+ .debug_str     0x00000000      0xe63 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
  .debug_frame   0x00000000      0x118 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
  .ARM.attributes
@@ -1754,7 +1754,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x2b CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
  .debug_line    0x00000000      0x3f9 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
- .debug_str     0x00000000      0xfce CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+ .debug_str     0x00000000      0xfdc CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
  .debug_frame   0x00000000       0x48 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
  .ARM.attributes
@@ -1791,7 +1791,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x19 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xip_cache/xip_cache.c.obj
  .debug_line    0x00000000      0x3b9 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xip_cache/xip_cache.c.obj
- .debug_str     0x00000000      0x2d7 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xip_cache/xip_cache.c.obj
+ .debug_str     0x00000000      0x2e5 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xip_cache/xip_cache.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xip_cache/xip_cache.c.obj
  .debug_frame   0x00000000       0x30 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xip_cache/xip_cache.c.obj
  .ARM.attributes
@@ -1856,7 +1856,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x44a CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
  .debug_line    0x00000000     0x20b0 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
- .debug_str     0x00000000     0x1183 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+ .debug_str     0x00000000     0x1191 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
  .debug_frame   0x00000000      0x200 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
  .ARM.attributes
@@ -1899,7 +1899,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0xec CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
  .debug_line    0x00000000      0xd2c CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
- .debug_str     0x00000000      0xa22 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
+ .debug_str     0x00000000      0xa30 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
  .debug_frame   0x00000000      0x128 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
  .ARM.attributes
@@ -2026,7 +2026,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x5f5 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/device/usbd.c.obj
  .debug_line    0x00000000     0x28c1 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/device/usbd.c.obj
- .debug_str     0x00000000     0x1a8d CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/device/usbd.c.obj
+ .debug_str     0x00000000     0x1a9b CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/device/usbd.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/device/usbd.c.obj
  .debug_frame   0x00000000      0x3d0 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/device/usbd.c.obj
  .ARM.attributes
@@ -2061,7 +2061,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000       0x8e CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/device/usbd_control.c.obj
  .debug_line    0x00000000      0x717 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/device/usbd_control.c.obj
- .debug_str     0x00000000      0x6b8 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/device/usbd_control.c.obj
+ .debug_str     0x00000000      0x6c6 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/device/usbd_control.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/device/usbd_control.c.obj
  .debug_frame   0x00000000       0xc0 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/device/usbd_control.c.obj
  .ARM.attributes
@@ -2074,7 +2074,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/audio/audio_device.c.obj
  .debug_line    0x00000000       0x75 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/audio/audio_device.c.obj
- .debug_str     0x00000000      0x1c8 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/audio/audio_device.c.obj
+ .debug_str     0x00000000      0x1d6 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/audio/audio_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/audio/audio_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/audio/audio_device.c.obj
@@ -2136,7 +2136,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x1df CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/cdc/cdc_device.c.obj
  .debug_line    0x00000000     0x118f CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/cdc/cdc_device.c.obj
- .debug_str     0x00000000     0x171a CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+ .debug_str     0x00000000     0x1728 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/cdc/cdc_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/cdc/cdc_device.c.obj
  .debug_frame   0x00000000      0x240 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/cdc/cdc_device.c.obj
  .ARM.attributes
@@ -2149,7 +2149,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/dfu/dfu_device.c.obj
  .debug_line    0x00000000       0x71 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/dfu/dfu_device.c.obj
- .debug_str     0x00000000      0x1c4 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/dfu/dfu_device.c.obj
+ .debug_str     0x00000000      0x1d2 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/dfu/dfu_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/dfu/dfu_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/dfu/dfu_device.c.obj
@@ -2161,7 +2161,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
  .debug_line    0x00000000       0x74 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
- .debug_str     0x00000000      0x1c7 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
+ .debug_str     0x00000000      0x1d5 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj
@@ -2173,7 +2173,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/hid/hid_device.c.obj
  .debug_line    0x00000000       0x71 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/hid/hid_device.c.obj
- .debug_str     0x00000000      0x1c4 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/hid/hid_device.c.obj
+ .debug_str     0x00000000      0x1d2 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/hid/hid_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/hid/hid_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/hid/hid_device.c.obj
@@ -2185,7 +2185,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/midi/midi_device.c.obj
  .debug_line    0x00000000       0x73 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/midi/midi_device.c.obj
- .debug_str     0x00000000      0x1c6 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/midi/midi_device.c.obj
+ .debug_str     0x00000000      0x1d4 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/midi/midi_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/midi/midi_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/midi/midi_device.c.obj
@@ -2197,7 +2197,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/msc/msc_device.c.obj
  .debug_line    0x00000000       0x71 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/msc/msc_device.c.obj
- .debug_str     0x00000000      0x1c4 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/msc/msc_device.c.obj
+ .debug_str     0x00000000      0x1d2 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/msc/msc_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/msc/msc_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/msc/msc_device.c.obj
@@ -2209,7 +2209,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
  .debug_line    0x00000000       0x77 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
- .debug_str     0x00000000      0x1ca CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
+ .debug_str     0x00000000      0x1d8 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj
@@ -2221,7 +2221,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/net/ncm_device.c.obj
  .debug_line    0x00000000       0x71 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/net/ncm_device.c.obj
- .debug_str     0x00000000      0x1c4 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/net/ncm_device.c.obj
+ .debug_str     0x00000000      0x1d2 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/net/ncm_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/net/ncm_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/net/ncm_device.c.obj
@@ -2233,7 +2233,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
  .debug_line    0x00000000       0x77 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
- .debug_str     0x00000000      0x1ca CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
+ .debug_str     0x00000000      0x1d8 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj
@@ -2277,7 +2277,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x12c CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/vendor/vendor_device.c.obj
  .debug_line    0x00000000      0xb5c CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/vendor/vendor_device.c.obj
- .debug_str     0x00000000      0xdd5 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/vendor/vendor_device.c.obj
+ .debug_str     0x00000000      0xde3 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/vendor/vendor_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/vendor/vendor_device.c.obj
  .debug_frame   0x00000000      0x164 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/vendor/vendor_device.c.obj
  .ARM.attributes
@@ -2290,7 +2290,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/video/video_device.c.obj
  .debug_line    0x00000000       0x75 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/video/video_device.c.obj
- .debug_str     0x00000000      0x1c8 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/video/video_device.c.obj
+ .debug_str     0x00000000      0x1d6 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/video/video_device.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/video/video_device.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/video/video_device.c.obj
@@ -2342,7 +2342,7 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x1d4 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/tusb.c.obj
  .debug_line    0x00000000     0x1162 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/tusb.c.obj
- .debug_str     0x00000000      0xbe1 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/tusb.c.obj
+ .debug_str     0x00000000      0xbef CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/tusb.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/tusb.c.obj
  .debug_frame   0x00000000      0x208 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/tusb.c.obj
  .ARM.attributes
@@ -2397,40 +2397,40 @@ Discarded input sections
  .debug_rnglists
                 0x00000000      0x3e4 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/common/tusb_fifo.c.obj
  .debug_line    0x00000000     0x1b1a CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/common/tusb_fifo.c.obj
- .debug_str     0x00000000      0x662 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/common/tusb_fifo.c.obj
+ .debug_str     0x00000000      0x670 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/common/tusb_fifo.c.obj
  .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/common/tusb_fifo.c.obj
  .debug_frame   0x00000000      0x220 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/common/tusb_fifo.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/common/tusb_fifo.c.obj
- .text          0x00000000        0x0 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
- .data          0x00000000        0x0 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
- .bss           0x00000000        0x0 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+ .text          0x00000000        0x0 CMakeFiles/DisplayC.dir/3618a5ce45e29ab57ce002431e4449ef/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+ .data          0x00000000        0x0 CMakeFiles/DisplayC.dir/3618a5ce45e29ab57ce002431e4449ef/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/DisplayC.dir/3618a5ce45e29ab57ce002431e4449ef/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
  .text.hw_enumeration_fix_force_ls_j_done
-                0x00000000       0x44 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+                0x00000000       0x44 CMakeFiles/DisplayC.dir/3618a5ce45e29ab57ce002431e4449ef/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
  .text.hw_enumeration_fix_force_ls_j
-                0x00000000      0x108 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+                0x00000000      0x108 CMakeFiles/DisplayC.dir/3618a5ce45e29ab57ce002431e4449ef/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
  .text.hw_enumeration_fix_wait_se0_callback
-                0x00000000       0x24 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+                0x00000000       0x24 CMakeFiles/DisplayC.dir/3618a5ce45e29ab57ce002431e4449ef/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
  .text.rp2040_usb_device_enumeration_fix
-                0x00000000       0x68 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+                0x00000000       0x68 CMakeFiles/DisplayC.dir/3618a5ce45e29ab57ce002431e4449ef/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
  .bss.pad_ctrl_prev
-                0x00000000        0x4 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+                0x00000000        0x4 CMakeFiles/DisplayC.dir/3618a5ce45e29ab57ce002431e4449ef/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
  .bss.gpio_ctrl_prev
-                0x00000000        0x4 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
- .debug_info    0x00000000      0xe33 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
- .debug_abbrev  0x00000000      0x425 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+                0x00000000        0x4 CMakeFiles/DisplayC.dir/3618a5ce45e29ab57ce002431e4449ef/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+ .debug_info    0x00000000      0xe33 CMakeFiles/DisplayC.dir/3618a5ce45e29ab57ce002431e4449ef/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+ .debug_abbrev  0x00000000      0x425 CMakeFiles/DisplayC.dir/3618a5ce45e29ab57ce002431e4449ef/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
  .debug_loclists
-                0x00000000      0x33a CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+                0x00000000      0x33a CMakeFiles/DisplayC.dir/3618a5ce45e29ab57ce002431e4449ef/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
  .debug_aranges
-                0x00000000       0x38 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+                0x00000000       0x38 CMakeFiles/DisplayC.dir/3618a5ce45e29ab57ce002431e4449ef/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
  .debug_rnglists
-                0x00000000       0xa0 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
- .debug_line    0x00000000      0x89f CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
- .debug_str     0x00000000      0x9be CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
- .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
- .debug_frame   0x00000000       0x74 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+                0x00000000       0xa0 CMakeFiles/DisplayC.dir/3618a5ce45e29ab57ce002431e4449ef/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+ .debug_line    0x00000000      0x89f CMakeFiles/DisplayC.dir/3618a5ce45e29ab57ce002431e4449ef/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+ .debug_str     0x00000000      0x9cc CMakeFiles/DisplayC.dir/3618a5ce45e29ab57ce002431e4449ef/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+ .comment       0x00000000       0x46 CMakeFiles/DisplayC.dir/3618a5ce45e29ab57ce002431e4449ef/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+ .debug_frame   0x00000000       0x74 CMakeFiles/DisplayC.dir/3618a5ce45e29ab57ce002431e4449ef/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
  .ARM.attributes
-                0x00000000       0x2c CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+                0x00000000       0x2c CMakeFiles/DisplayC.dir/3618a5ce45e29ab57ce002431e4449ef/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
  .text          0x00000000        0x0 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_i2c/i2c.c.obj
  .data          0x00000000        0x0 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_i2c/i2c.c.obj
  .bss           0x00000000        0x0 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_i2c/i2c.c.obj
@@ -3960,7 +3960,7 @@ LOAD CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyu
 LOAD CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/class/video/video_device.c.obj
 LOAD CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/tusb.c.obj
 LOAD CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/lib/tinyusb/src/common/tusb_fifo.c.obj
-LOAD CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
+LOAD CMakeFiles/DisplayC.dir/3618a5ce45e29ab57ce002431e4449ef/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
 LOAD CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_i2c/i2c.c.obj
 LOAD pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_library.dir/./bs2_default_padded_checksummed.S.obj
 LOAD C:/Users/Michelangelo/.pico-sdk/toolchain/13_3_Rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp\libstdc++.a
@@ -4428,88 +4428,88 @@ LOAD linker stubs
  .debug_rnglists
                 0x00002f12      0x172 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_i2c/i2c.c.obj
 
-.debug_line     0x00000000    0x191ad
- .debug_line    0x00000000      0x4e6 CMakeFiles/DisplayC.dir/DisplayC.c.obj
- .debug_line    0x000004e6     0x155c CMakeFiles/DisplayC.dir/inc/ssd1306.c.obj
- .debug_line    0x00001a42     0x1cdd CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_gpio/gpio.c.obj
- .debug_line    0x0000371f      0x2b4 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_platform_panic/panic.c.obj
- .debug_line    0x000039d3      0x976 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/hardware_claim/claim.c.obj
- .debug_line    0x00004349      0x50a CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync/sync.c.obj
- .debug_line    0x00004853      0x3eb CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj
- .debug_line    0x00004c3e     0x176a CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_irq/irq.c.obj
- .debug_line    0x000063a8      0x316 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_sync/lock_core.c.obj
- .debug_line    0x000066be     0x1b7c CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_sync/mutex.c.obj
- .debug_line    0x0000823a     0x31b4 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_time/time.c.obj
- .debug_line    0x0000b3ee     0x1d8f CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_timer/timer.c.obj
- .debug_line    0x0000d17d     0x1e64 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_clocks/clocks.c.obj
- .debug_line    0x0000efe1      0x53f CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pll/pll.c.obj
- .debug_line    0x0000f520      0x375 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_ticks/ticks.c.obj
- .debug_line    0x0000f895      0x497 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom.c.obj
- .debug_line    0x0000fd2c      0x38e CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xosc/xosc.c.obj
- .debug_line    0x000100ba      0x343 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime/runtime.c.obj
- .debug_line    0x000103fd      0x581 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init.c.obj
- .debug_line    0x0001097e      0x5bb CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj
- .debug_line    0x00010f39      0x107 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
- .debug_line    0x00011040      0x2a9 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_divider/divider_hardware.S.obj
- .debug_line    0x000112e9      0x3f8 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.obj
- .debug_line    0x000116e1      0x532 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_init_rom_rp2040.c.obj
- .debug_line    0x00011c13      0x66d CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.obj
- .debug_line    0x00012280       0x61 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
- .debug_line    0x000122e1      0x3b4 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.obj
- .debug_line    0x00012695      0x447 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_init_rom_rp2040.c.obj
- .debug_line    0x00012adc      0x195 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.obj
- .debug_line    0x00012c71      0x2c0 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_malloc/malloc.c.obj
- .debug_line    0x00012f31       0x94 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
- .debug_line    0x00012fc5      0x218 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj
- .debug_line    0x000131dd     0x1bc0 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_printf/printf.c.obj
- .debug_line    0x00014d9d       0xa5 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_crt0/crt0.S.obj
- .debug_line    0x00014e42      0x8c4 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_clib_interface/newlib_interface.c.obj
- .debug_line    0x00015706     0x154a CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio/stdio.c.obj
- .debug_line    0x00016c50      0x698 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_unique_id/unique_id.c.obj
- .debug_line    0x000172e8      0xba7 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_flash/flash.c.obj
- .debug_line    0x00017e8f     0x131e CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_i2c/i2c.c.obj
+.debug_line     0x00000000    0x191d7
+ .debug_line    0x00000000      0x502 CMakeFiles/DisplayC.dir/DisplayC.c.obj
+ .debug_line    0x00000502     0x156a CMakeFiles/DisplayC.dir/inc/ssd1306.c.obj
+ .debug_line    0x00001a6c     0x1cdd CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_gpio/gpio.c.obj
+ .debug_line    0x00003749      0x2b4 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_platform_panic/panic.c.obj
+ .debug_line    0x000039fd      0x976 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/hardware_claim/claim.c.obj
+ .debug_line    0x00004373      0x50a CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync/sync.c.obj
+ .debug_line    0x0000487d      0x3eb CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj
+ .debug_line    0x00004c68     0x176a CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_irq/irq.c.obj
+ .debug_line    0x000063d2      0x316 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_sync/lock_core.c.obj
+ .debug_line    0x000066e8     0x1b7c CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_sync/mutex.c.obj
+ .debug_line    0x00008264     0x31b4 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_time/time.c.obj
+ .debug_line    0x0000b418     0x1d8f CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_timer/timer.c.obj
+ .debug_line    0x0000d1a7     0x1e64 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_clocks/clocks.c.obj
+ .debug_line    0x0000f00b      0x53f CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pll/pll.c.obj
+ .debug_line    0x0000f54a      0x375 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_ticks/ticks.c.obj
+ .debug_line    0x0000f8bf      0x497 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom.c.obj
+ .debug_line    0x0000fd56      0x38e CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xosc/xosc.c.obj
+ .debug_line    0x000100e4      0x343 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime/runtime.c.obj
+ .debug_line    0x00010427      0x581 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init.c.obj
+ .debug_line    0x000109a8      0x5bb CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj
+ .debug_line    0x00010f63      0x107 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
+ .debug_line    0x0001106a      0x2a9 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_divider/divider_hardware.S.obj
+ .debug_line    0x00011313      0x3f8 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.obj
+ .debug_line    0x0001170b      0x532 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_init_rom_rp2040.c.obj
+ .debug_line    0x00011c3d      0x66d CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.obj
+ .debug_line    0x000122aa       0x61 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
+ .debug_line    0x0001230b      0x3b4 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.obj
+ .debug_line    0x000126bf      0x447 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_init_rom_rp2040.c.obj
+ .debug_line    0x00012b06      0x195 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.obj
+ .debug_line    0x00012c9b      0x2c0 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_malloc/malloc.c.obj
+ .debug_line    0x00012f5b       0x94 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
+ .debug_line    0x00012fef      0x218 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj
+ .debug_line    0x00013207     0x1bc0 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_printf/printf.c.obj
+ .debug_line    0x00014dc7       0xa5 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_crt0/crt0.S.obj
+ .debug_line    0x00014e6c      0x8c4 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_clib_interface/newlib_interface.c.obj
+ .debug_line    0x00015730     0x154a CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio/stdio.c.obj
+ .debug_line    0x00016c7a      0x698 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_unique_id/unique_id.c.obj
+ .debug_line    0x00017312      0xba7 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_flash/flash.c.obj
+ .debug_line    0x00017eb9     0x131e CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_i2c/i2c.c.obj
 
-.debug_str      0x00000000     0x5097
- .debug_str     0x00000000     0x5097 CMakeFiles/DisplayC.dir/DisplayC.c.obj
-                                0x5e9 (size before relaxing)
- .debug_str     0x00005097      0xa42 CMakeFiles/DisplayC.dir/inc/ssd1306.c.obj
- .debug_str     0x00005097      0xca7 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_gpio/gpio.c.obj
- .debug_str     0x00005097      0x232 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_platform_panic/panic.c.obj
- .debug_str     0x00005097      0x3b5 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/hardware_claim/claim.c.obj
- .debug_str     0x00005097      0x35e CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync/sync.c.obj
- .debug_str     0x00005097      0x271 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj
- .debug_str     0x00005097      0xa95 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_irq/irq.c.obj
- .debug_str     0x00005097      0x23d CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_sync/lock_core.c.obj
- .debug_str     0x00005097      0x7d0 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_sync/mutex.c.obj
- .debug_str     0x00005097     0x11cd CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_time/time.c.obj
- .debug_str     0x00005097      0xa18 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_timer/timer.c.obj
- .debug_str     0x00005097      0x9c7 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_clocks/clocks.c.obj
- .debug_str     0x00005097      0x490 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pll/pll.c.obj
- .debug_str     0x00005097      0x2bf CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_ticks/ticks.c.obj
- .debug_str     0x00005097      0x36d CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom.c.obj
- .debug_str     0x00005097      0x274 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xosc/xosc.c.obj
- .debug_str     0x00005097      0x2c4 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime/runtime.c.obj
- .debug_str     0x00005097      0x7b8 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init.c.obj
- .debug_str     0x00005097      0x4cc CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj
- .debug_str     0x00005097       0xbc CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
- .debug_str     0x00005097       0xbf CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_divider/divider_hardware.S.obj
- .debug_str     0x00005097       0xc1 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.obj
- .debug_str     0x00005097      0x2f4 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_init_rom_rp2040.c.obj
- .debug_str     0x00005097       0xc7 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.obj
- .debug_str     0x00005097       0xc5 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
- .debug_str     0x00005097       0xbf CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.obj
- .debug_str     0x00005097      0x2d9 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_init_rom_rp2040.c.obj
- .debug_str     0x00005097       0xc5 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.obj
- .debug_str     0x00005097      0x26a CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_malloc/malloc.c.obj
- .debug_str     0x00005097       0xbc CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
- .debug_str     0x00005097      0x46d CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj
- .debug_str     0x00005097      0x507 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_printf/printf.c.obj
- .debug_str     0x00005097       0xb0 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_crt0/crt0.S.obj
- .debug_str     0x00005097      0x752 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_clib_interface/newlib_interface.c.obj
- .debug_str     0x00005097      0xb16 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio/stdio.c.obj
- .debug_str     0x00005097      0x2a3 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_unique_id/unique_id.c.obj
- .debug_str     0x00005097      0x6fd CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_flash/flash.c.obj
- .debug_str     0x00005097     0x102d CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_i2c/i2c.c.obj
+.debug_str      0x00000000     0x50c1
+ .debug_str     0x00000000     0x50c1 CMakeFiles/DisplayC.dir/DisplayC.c.obj
+                                0x605 (size before relaxing)
+ .debug_str     0x000050c1      0xa5e CMakeFiles/DisplayC.dir/inc/ssd1306.c.obj
+ .debug_str     0x000050c1      0xcb5 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_gpio/gpio.c.obj
+ .debug_str     0x000050c1      0x240 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_platform_panic/panic.c.obj
+ .debug_str     0x000050c1      0x3c3 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/hardware_claim/claim.c.obj
+ .debug_str     0x000050c1      0x36c CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync/sync.c.obj
+ .debug_str     0x000050c1      0x27f CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj
+ .debug_str     0x000050c1      0xaa3 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_irq/irq.c.obj
+ .debug_str     0x000050c1      0x24b CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_sync/lock_core.c.obj
+ .debug_str     0x000050c1      0x7de CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_sync/mutex.c.obj
+ .debug_str     0x000050c1     0x11db CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/common/pico_time/time.c.obj
+ .debug_str     0x000050c1      0xa26 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_timer/timer.c.obj
+ .debug_str     0x000050c1      0x9d5 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_clocks/clocks.c.obj
+ .debug_str     0x000050c1      0x49e CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_pll/pll.c.obj
+ .debug_str     0x000050c1      0x2cd CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_ticks/ticks.c.obj
+ .debug_str     0x000050c1      0x37b CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bootrom/bootrom.c.obj
+ .debug_str     0x000050c1      0x282 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_xosc/xosc.c.obj
+ .debug_str     0x000050c1      0x2d2 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime/runtime.c.obj
+ .debug_str     0x000050c1      0x7c6 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init.c.obj
+ .debug_str     0x000050c1      0x4da CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj
+ .debug_str     0x000050c1       0xca CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
+ .debug_str     0x000050c1       0xcd CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_divider/divider_hardware.S.obj
+ .debug_str     0x000050c1       0xcf CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.obj
+ .debug_str     0x000050c1      0x302 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_init_rom_rp2040.c.obj
+ .debug_str     0x000050c1       0xd5 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.obj
+ .debug_str     0x000050c1       0xd3 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
+ .debug_str     0x000050c1       0xcd CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.obj
+ .debug_str     0x000050c1      0x2e7 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_init_rom_rp2040.c.obj
+ .debug_str     0x000050c1       0xd3 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.obj
+ .debug_str     0x000050c1      0x278 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_malloc/malloc.c.obj
+ .debug_str     0x000050c1       0xca CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
+ .debug_str     0x000050c1      0x47b CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj
+ .debug_str     0x000050c1      0x515 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_printf/printf.c.obj
+ .debug_str     0x000050c1       0xbe CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_crt0/crt0.S.obj
+ .debug_str     0x000050c1      0x760 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_clib_interface/newlib_interface.c.obj
+ .debug_str     0x000050c1      0xb24 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio/stdio.c.obj
+ .debug_str     0x000050c1      0x2b1 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_unique_id/unique_id.c.obj
+ .debug_str     0x000050c1      0x70b CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_flash/flash.c.obj
+ .debug_str     0x000050c1     0x103b CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/hardware_i2c/i2c.c.obj
 
 .debug_frame    0x00000000     0x22d8
  .debug_frame   0x00000000       0x3c CMakeFiles/DisplayC.dir/DisplayC.c.obj
@@ -4555,25 +4555,25 @@ LOAD linker stubs
  .debug_frame   0x000022ac       0x2c C:/Users/Michelangelo/.pico-sdk/toolchain/13_3_Rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp\libg.a(libc_a-reent.o)
 
 .debug_line_str
-                0x00000000      0x3ba
+                0x00000000      0x3c8
  .debug_line_str
-                0x00000000      0x3ba CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
-                                 0xae (size before relaxing)
+                0x00000000      0x3c8 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
+                                 0xbc (size before relaxing)
  .debug_line_str
-                0x000003ba       0xb1 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_divider/divider_hardware.S.obj
+                0x000003c8       0xbf CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_divider/divider_hardware.S.obj
  .debug_line_str
-                0x000003ba       0xb3 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.obj
+                0x000003c8       0xc1 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_aeabi_rp2040.S.obj
  .debug_line_str
-                0x000003ba       0xb9 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.obj
+                0x000003c8       0xc7 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.obj
  .debug_line_str
-                0x000003ba       0xb7 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
+                0x000003c8       0xc5 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
  .debug_line_str
-                0x000003ba       0xb1 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.obj
+                0x000003c8       0xbf CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_aeabi_rp2040.S.obj
  .debug_line_str
-                0x000003ba       0xb7 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.obj
+                0x000003c8       0xc5 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_float/float_v1_rom_shim_rp2040.S.obj
  .debug_line_str
-                0x000003ba       0xae CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
+                0x000003c8       0xbc CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
  .debug_line_str
-                0x000003ba       0xa2 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_crt0/crt0.S.obj
+                0x000003c8       0xb0 CMakeFiles/DisplayC.dir/C_/Users/Michelangelo/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_crt0/crt0.S.obj
  .debug_line_str
-                0x000003ba       0xc9 C:/Users/Michelangelo/.pico-sdk/toolchain/13_3_Rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x000003c8       0xc9 C:/Users/Michelangelo/.pico-sdk/toolchain/13_3_Rel1/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)

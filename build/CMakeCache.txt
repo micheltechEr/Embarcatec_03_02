@@ -166,7 +166,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=DisplayC
+CMAKE_PROJECT_NAME:STATIC=Embarcatech_03_02
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=C:/Users/Michelangelo/.pico-sdk/toolchain/13_3_Rel1/bin/arm-none-eabi-ranlib.exe
@@ -250,6 +250,15 @@ DisplayC_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 DisplayC_SOURCE_DIR:STATIC=C:/Users/Michelangelo/Documents/EMBARCATECH_UNID_4/EmbarcaTechProjetos/Embarcatech_Tarefa_03_02
+
+//Value Computed by CMake
+Embarcatech_03_02_BINARY_DIR:STATIC=C:/Users/Michelangelo/Documents/EMBARCATECH_UNID_4/EmbarcaTechProjetos/Embarcatech_Tarefa_03_02/build
+
+//Value Computed by CMake
+Embarcatech_03_02_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Embarcatech_03_02_SOURCE_DIR:STATIC=C:/Users/Michelangelo/Documents/EMBARCATECH_UNID_4/EmbarcaTechProjetos/Embarcatech_Tarefa_03_02
 
 //Directory under which to collect all populated content
 FETCHCONTENT_BASE_DIR:PATH=C:/Users/Michelangelo/Documents/EMBARCATECH_UNID_4/EmbarcaTechProjetos/Embarcatech_Tarefa_03_02/build/_deps

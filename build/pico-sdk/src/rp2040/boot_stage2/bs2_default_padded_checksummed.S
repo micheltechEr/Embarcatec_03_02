@@ -1,4 +1,4 @@
-// Padded and checksummed version of: C:/Users/Michelangelo/Documents/EMBARCATECH_UNID_4/EmbarcaTechU4C6/I2C_DisplayEmC/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
+// Padded and checksummed version of: C:/Users/Michelangelo/Documents/EMBARCATECH_UNID_4/EmbarcaTechProjetos/Embarcatech_Tarefa_03_02/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
 
 .cpu cortex-m0plus
 .thumb

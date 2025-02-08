@@ -1,5 +1,3 @@
-
-
 cmake_minimum_required(VERSION 3.13)
 
 set(CMAKE_C_STANDARD 11)
@@ -28,35 +26,35 @@ set(PICO_BOARD pico CACHE STRING "Board type")
 # Pull in Raspberry Pi Pico SDK (must be before project)
 include(pico_sdk_import.cmake)
 
-project(DisplayC C CXX ASM)
+project(Embarcatech_03_02 C CXX ASM)
 
 # Initialise the Raspberry Pi Pico SDK
 pico_sdk_init()
 
 # Add executable. Default name is the project name, version 0.1
 
-add_executable(DisplayC DisplayC.c inc/ssd1306.c)
+add_executable(Embarcatech_03_02 Embarcatech_03_02.c inc/ssd1306.c)
 
-pico_set_program_name(DisplayC "DisplayC")
-pico_set_program_version(DisplayC "0.1")
+pico_set_program_name(Embarcatech_03_02 "Embarcatech_03_02")
+pico_set_program_version(Embarcatech_03_02 "0.1")
 
 # Modify the below lines to enable/disable output over UART/USB
-pico_enable_stdio_uart(DisplayC 0)
-pico_enable_stdio_usb(DisplayC 1)
+pico_enable_stdio_uart(Embarcatech_03_02 0)
+pico_enable_stdio_usb(Embarcatech_03_02 1)
 
 # Add the standard library to the build
-target_link_libraries(DisplayC
+target_link_libraries(Embarcatech_03_02
         pico_stdlib)
 
 # Add the standard include files to the build
-target_include_directories(DisplayC PRIVATE
+target_include_directories(Embarcatech_03_02 PRIVATE
   ${CMAKE_CURRENT_LIST_DIR}
 )
 
 # Add any user requested libraries
-target_link_libraries(DisplayC 
+target_link_libraries(Embarcatech_03_02 
         hardware_i2c
         )
 
-pico_add_extra_outputs(DisplayC)
+pico_add_extra_outputs(Embarcatech_03_02)
 
