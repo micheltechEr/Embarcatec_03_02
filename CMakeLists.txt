@@ -1,3 +1,5 @@
+# Generated Cmake Pico project file
+
 cmake_minimum_required(VERSION 3.13)
 
 set(CMAKE_C_STANDARD 11)
@@ -21,7 +23,7 @@ if (EXISTS ${picoVscode})
     include(${picoVscode})
 endif()
 # ====================================================================================
-set(PICO_BOARD pico CACHE STRING "Board type")
+set(PICO_BOARD pico_w CACHE STRING "Board type")
 
 # Pull in Raspberry Pi Pico SDK (must be before project)
 include(pico_sdk_import.cmake)
@@ -38,8 +40,11 @@ add_executable(Embarcatech_03_02 Embarcatech_03_02.c inc/ssd1306.c)
 pico_set_program_name(Embarcatech_03_02 "Embarcatech_03_02")
 pico_set_program_version(Embarcatech_03_02 "0.1")
 
+# Generate PIO header
+pico_generate_pio_header(Embarcatech_03_02 ${CMAKE_CURRENT_LIST_DIR}/ws2812.pio)
+
 # Modify the below lines to enable/disable output over UART/USB
-pico_enable_stdio_uart(Embarcatech_03_02 0)
+pico_enable_stdio_uart(Embarcatech_03_02 1)
 pico_enable_stdio_usb(Embarcatech_03_02 1)
 
 # Add the standard library to the build
@@ -48,13 +53,14 @@ target_link_libraries(Embarcatech_03_02
 
 # Add the standard include files to the build
 target_include_directories(Embarcatech_03_02 PRIVATE
-  ${CMAKE_CURRENT_LIST_DIR}
+        ${CMAKE_CURRENT_LIST_DIR}
 )
 
 # Add any user requested libraries
 target_link_libraries(Embarcatech_03_02 
         hardware_i2c
+        hardware_pio
+        
         )
 
 pico_add_extra_outputs(Embarcatech_03_02)
-

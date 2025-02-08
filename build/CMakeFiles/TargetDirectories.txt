@@ -1,4 +1,5 @@
 C:/Users/Michelangelo/Documents/EMBARCATECH_UNID_4/EmbarcaTechProjetos/Embarcatech_Tarefa_03_02/build/CMakeFiles/Embarcatech_03_02.dir
+C:/Users/Michelangelo/Documents/EMBARCATECH_UNID_4/EmbarcaTechProjetos/Embarcatech_Tarefa_03_02/build/CMakeFiles/Embarcatech_03_02_ws2812_pio_h.dir
 C:/Users/Michelangelo/Documents/EMBARCATECH_UNID_4/EmbarcaTechProjetos/Embarcatech_Tarefa_03_02/build/CMakeFiles/edit_cache.dir
 C:/Users/Michelangelo/Documents/EMBARCATECH_UNID_4/EmbarcaTechProjetos/Embarcatech_Tarefa_03_02/build/CMakeFiles/rebuild_cache.dir
 C:/Users/Michelangelo/Documents/EMBARCATECH_UNID_4/EmbarcaTechProjetos/Embarcatech_Tarefa_03_02/build/pico-sdk/CMakeFiles/edit_cache.dir
