@@ -4,6 +4,7 @@ Este projeto foi desenvolvido para demonstrar o uso de **comunicação serial**,
 
 O código utiliza o **PIO (Programmable Input/Output)** para controlar os LEDs WS2812 com precisão temporal, enquanto o display OLED é usado para fornecer informações adicionais ao usuário. A implementação inclui debounce para evitar múltiplas detecções de pressionamento dos botões.
 
+Link do vídeo : https://drive.google.com/file/d/1_qv9TCy5X6zALaJajUtQ8um1PKzxQUHf/view?usp=sharing
 ---
 ## Componentes Utilizados
 - **Matriz de LEDs WS2812 (5x5):** Conectada ao pino 7 do Raspberry Pi Pico.
